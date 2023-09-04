@@ -30,11 +30,28 @@ Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da
 ![image](https://user-images.githubusercontent.com/6764957/87082196-3418a980-c25d-11ea-9987-0d9787d54100.png)
 </h3> -->
 
+[![Blog Badge](https://img.shields.io/badge/Blog-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://blog.munafio.com)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white)](https://linkedin.com/in/munafio)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/munafiofficial)
+[![YouTube Badge](https://img.shields.io/badge/-YouTube-e4405f?style=for-the-badge&logo=Youtube&logoColor=white)](https://youtube.com/munafio/)
 
-<!-- Whats up hacker news, i dont give a shit about being a github influencer lmao stop judging me based on literally a bio i typed up in 3 minutes -->
+```javascript
+import SoftwareDeveloper from 'munafio';
+import { Languages, Frameworks } from 'munafio/skills';
 
+class Bio extends SoftwareDeveloper {
+  name     = 'Munaf Aqeel Mahdi';
+  title    = 'Senior Software Developer';
+  location = 'Babil, IQ';
+}
 
-<!-- comment out for now while https://github.com/jstrieb/github-stats/issues/7 is going on -->
+class Skills extends SoftwareDeveloper {
+  languages  = ['JavaScript', 'TypeScript', 'PHP', ...Languages];
+  databases  = ['MySQL', 'MongoDB', 'PostgreSQL'];
+  frameworks = ['Vue', 'React', 'Next.js', 'Laravel', 'Nest.js', ...Frameworks];
+}
+
+```
 
 [![160744959694494596](https://user-images.githubusercontent.com/6764957/101521273-94ed0f00-39c0-11eb-9721-1fb49097a171.png)](https://github.com/sw-yx?tab=repositories)
 
