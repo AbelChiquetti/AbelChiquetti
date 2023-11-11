@@ -142,7 +142,7 @@ Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da
 [![Instagram Badge](https://img.shields.io/badge/-Twitter-00acee?style=for-the-badge&logo=Twitter&logoColor=white)](https://www.instagram.com/abel_cpl)
 [![Portolio Badge](https://img.shields.io/badge/-YouTube-e4405f?style=for-the-badge&logo=Youtube&logoColor=white)](https://abelchiquetti.github.io/Portfolio)
 [![Youtube Badge](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://abelchiquetti.github.io/Portfolio)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abelcpl86@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white)](<mailto: abelcpl86@gmail.com>)
 
 <p>
   <img src="https://github-profile-trophy.vercel.app/?username=carolbarbosa101&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
