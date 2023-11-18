@@ -69,11 +69,12 @@ _Hello, my name is Abel, I'm 18 years old and I'm from Florianópolis. I am a cr
 </tr>
 </table>
 
+<td align='center'>
 [![Calculadora](https://img.shields.io/badge/Portfolio-8A2BE2)](https://abelchiquetti.github.io/Portfolio)
 [![Calculadora](https://img.shields.io/badge/Dra%20Denise-8A2BE2)](https://abelchiquetti.github.io/DraDenise)
 [![Calculadora](https://img.shields.io/badge/Calculadora%20Veterify-8A2BE2)](https://abelchiquetti.github.io/Veterify)
 [![Calculadora](https://img.shields.io/badge/BinoStore%20Bot-8A2BE2)](https://github.com/AbelChiquetti/BinoStoreBot)
-
+</td>
 
 Tecnologias que eu uso no meu dia-a-dia
 
