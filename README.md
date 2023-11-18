@@ -2,6 +2,8 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=4C53C8&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+name+is+Abel+Chiquetti;I'm+18+years+old;I'm+from+Brazil;I'm+a+programming+student;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
+<img align="right" src="https://i.imgur.com/5UNtHtU.png"  width="400">
+
 _Hello, my name is Abel, I'm 18 years old and I'm from Florianópolis. I am a creative person and have always enjoyed working with audiovisual and technology. My first job was when I was 14 years old as a minor apprentice, in a computer company, and since then I have developed websites for several companies as a freelancer, gaining a lot of practical experience._
 
 <h3 align='center'><i>Social Media Handles</i></h3>
