@@ -69,12 +69,10 @@ _Hello, my name is Abel, I'm 18 years old and I'm from Florianópolis. I am a cr
 </tr>
 </table>
 
-<td align='center'>
 [![Calculadora](https://img.shields.io/badge/Portfolio-8A2BE2)](https://abelchiquetti.github.io/Portfolio)
 [![Calculadora](https://img.shields.io/badge/Dra%20Denise-8A2BE2)](https://abelchiquetti.github.io/DraDenise)
 [![Calculadora](https://img.shields.io/badge/Calculadora%20Veterify-8A2BE2)](https://abelchiquetti.github.io/Veterify)
 [![Calculadora](https://img.shields.io/badge/BinoStore%20Bot-8A2BE2)](https://github.com/AbelChiquetti/BinoStoreBot)
-</td>
 
 Tecnologias que eu uso no meu dia-a-dia
 
@@ -96,14 +94,14 @@ Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white)](<mailto: abelcpl86@gmail.com>)
 
 <p>
-  <img src="https://github-profile-trophy.vercel.app/?username=carolbarbosa101&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=AbelChiquetti&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
 
 <div>
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=carolbarbosa101&show_icons=true&count_private=true&hide_border=true&title_color=ff91a4&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117" alt="Caroline Barbosa github stats" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=AbelChiquetti&show_icons=true&count_private=true&hide_border=true&title_color=ff91a4&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117" alt="Abel Chiquetti github stats" />
 </div>
 <div>
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carolbarbosa101&layout=compact&hide_border=true&title_color=ff91a4&text_color=ff91a4&bg_color=0d1117" />
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbelChiquetti&layout=compact&hide_border=true&title_color=ff91a4&text_color=ff91a4&bg_color=0d1117" />
 </div>
 
 ### Main skills:
