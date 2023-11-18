@@ -69,16 +69,15 @@ _Hello, my name is Abel, I'm 18 years old and I'm from Florianópolis. I am a cr
 </tr>
 </table>
 
-<div align='center'>
 [![Calculadora](https://img.shields.io/badge/Portfolio-8A2BE2)](https://abelchiquetti.github.io/Portfolio)
 [![Calculadora](https://img.shields.io/badge/Dra%20Denise-8A2BE2)](https://abelchiquetti.github.io/DraDenise)
 [![Calculadora](https://img.shields.io/badge/Calculadora%20Veterify-8A2BE2)](https://abelchiquetti.github.io/Veterify)
 [![Calculadora](https://img.shields.io/badge/BinoStore%20Bot-8A2BE2)](https://github.com/AbelChiquetti/BinoStoreBot)
-</div>
+
 
 Tecnologias que eu uso no meu dia-a-dia
 
-<div style="display: inline_block">
+<div align='center' style="display: inline_block">
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -133,7 +132,7 @@ class Skills extends SoftwareDeveloper {
 
 <div>
 <br><p align="centre"><b>Visitors Count :)</b></p>  
-<p><img align="center" src="https://profile-counter.glitch.me/{carolbarbosa101}/count.svg" /></p> 
+<p><img align="center" src="https://profile-counter.glitch.me/%7BAbelChiquetti%7D/count.svg" /></p> 
 <br>
 </div>
 
