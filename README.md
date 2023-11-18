@@ -19,20 +19,7 @@ _Hello, my name is Abel, I'm 18 years old and I'm from Florianópolis. I am a cr
     </td>
 </tr>
 </table>
-
 </p>
-
-<table width="100" align='center'>
-<tr>
- <td align='center'>
-    <b>Currently learning</b>
- </td>
- <td align='center' width="60">
-     <img src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-icon.svg">
- </td>
-</tr>
-</table>
-
 </br>
 
 <h2 align='center'><i><a href="https://github.com/abelchiquetti/github-readme-activity-graph">Activity Graph 📈</i></h2>
