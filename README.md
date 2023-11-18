@@ -33,56 +33,38 @@ _Hello, my name is Abel, I'm 18 years old and I'm from Florianópolis. I am a cr
 
 <h2 align='center'><i>Languages and Tools</i></h2>
 
-<table width="100">
+<table>
 <tr>
     <td align='center' width="190">
-        <img src="https://www.vectorlogo.zone/logos/nestjs/nestjs-ar21.svg">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60"/>
     </td>
     <td align='center' width="190">
         <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg">
     </td>
     <td align='center' width="190">
-        <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-ar21.svg">
-    </td>
-     <td align='center' width="190">
-        <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg">
-    </td>
-    <td align='center'  width="190">
         <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg">
     </td>
 </tr>
 <tr>
     <td align='center' width="190">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60"/>
+            <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"/>
     </td>
     <td align='center' width="190">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="60"/>
+            <img src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg"/>
     </td>
      <td align='center' width="190">
-        <img src="https://www.vectorlogo.zone/logos/golang/golang-official.svg" width="110">
-    </td>
-    <td align='center' width="190">
         <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg">
-    </td>
-    <td align='center'>
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original-wordmark.svg" width="60"/>
     </td>
 </tr>
 <tr>
     <td align='center'>
-        <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-ar21.svg">
+        <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-ar21.svg">
     </td>
     <td align='center'>
-        <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg">
+        <img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg">
     </td>
     <td align='center'>
-        <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg">
-    </td>
-    <td align='center'>
-        <img src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg">
-    </td>
-    <td align='center'>
-        <img src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-icon.svg">
+        <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg">
     </td>
 </tr>
 </table>
@@ -94,16 +76,6 @@ _Hello, my name is Abel, I'm 18 years old and I'm from Florianópolis. I am a cr
  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ashutosh00710&repo=github-readme-activity-graph&theme=vue-dark&hide_border=true" height="185">
 </a>
 </p>
-
-
-
-
-
-
-
-
-
-
 
 [![Calculadora](https://img.shields.io/badge/Portfolio-8A2BE2)](https://abelchiquetti.github.io/Portfolio)
 [![Calculadora](https://img.shields.io/badge/Dra%20Denise-8A2BE2)](https://abelchiquetti.github.io/DraDenise)
