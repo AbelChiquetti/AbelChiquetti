@@ -22,7 +22,6 @@ _Hello, my name is Abel, I'm 18 years old and I'm from Florianópolis. I am a cr
 </p>
 </br>
 
-<h2 align='center'><i><a href="https://github.com/abelchiquetti/github-readme-activity-graph">Activity Graph 📈</i></h2>
 <a href="https://github.com/abelchiquetti/github-readme-activity-graph#gh-light-mode-only">
  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abelchiquetti&theme=react&area=true&hide_border=true#gh-light-mode-only" width="100%">
 </a>
