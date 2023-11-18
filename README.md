@@ -69,14 +69,6 @@ _Hello, my name is Abel, I'm 18 years old and I'm from Florianópolis. I am a cr
 </tr>
 </table>
 
-<h2 align='center'><i>Top Repos</i></h2>
-
-<p align="center">
-<a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
- <img src="https://github-readme-stats.vercel.app/api/pin/?username=ashutosh00710&repo=github-readme-activity-graph&theme=vue-dark&hide_border=true" height="185">
-</a>
-</p>
-
 [![Calculadora](https://img.shields.io/badge/Portfolio-8A2BE2)](https://abelchiquetti.github.io/Portfolio)
 [![Calculadora](https://img.shields.io/badge/Dra%20Denise-8A2BE2)](https://abelchiquetti.github.io/DraDenise)
 [![Calculadora](https://img.shields.io/badge/Calculadora%20Veterify-8A2BE2)](https://abelchiquetti.github.io/Veterify)
