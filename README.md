@@ -33,7 +33,7 @@ _Hello, my name is Abel, I'm 18 years old and I'm from Florianópolis. I am a cr
 
 <h2 align='center'><i>Languages and Tools</i></h2>
 
-<table>
+<table align='center'>
 <tr>
     <td align='center' width="190">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60"/>
