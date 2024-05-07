@@ -1,0 +1,81 @@
+---
+import Container from "./Container.astro"
+---
+
+<div class="relative" id="home">
+    <div aria-hidden="true" class="absolute inset-0 grid grid-cols-2 -space-x-52 opacity-40 dark:opacity-20">
+        <div class="blur-[106px] h-56 bg-gradient-to-br from-primary to-purple-400 dark:from-blue-700"></div>
+        <div class="blur-[106px] h-32 bg-gradient-to-r from-cyan-400 to-sky-300 dark:to-indigo-600"></div>
+    </div>
+    <Container>
+        <div class="relative pt-36 ml-auto">
+            <div class="lg:w-2/3 text-center mx-auto">
+              <h1 class="text-5xl md:text-6xl xl:text-7xl">
+                <span class="gradient-text font-bold">Shaping a world with <span class="text-primary dark:text-white">reimagination.</span></span>
+              </h1>                           
+              <style>
+                .gradient-text {
+                  background: linear-gradient(to right, #ffffff, #747474);
+                  -webkit-background-clip: text;
+                  -webkit-text-fill-color: transparent;
+                }
+                </style>                
+                <p class="mt-10 text-gray-700 dark:text-gray-300">Over the past 4 years, as an web developer and designer, I’ve worked with big companies and up-and-coming startups to successfully help them reach their full potential and attract new customers.</p>
+                <div class="mt-10 flex flex-wrap justify-center gap-y-4 gap-x-6">
+                    <a
+                      href="https://api.whatsapp.com/send/?phone=5548984160728"
+                      class="relative flex h-11 w-full items-center justify-center px-6 before:absolute before:inset-0 before:rounded-full before:bg-green-500 before:transition before:duration-300 hover:before:scale-105 active:duration-75 active:before:scale-95 sm:w-max"
+                    >
+                      <span class="relative text-base font-semibold text-white"
+                        >Chat on WhatsApp</span
+                      >
+                    </a>
+                    <a
+                      href="https://t.me/abelcpl"
+                      class="relative flex h-11 w-full items-center justify-center px-6 before:absolute before:inset-0 before:rounded-full before:bg-blue-500 before:transition before:duration-300 hover:before:scale-105 active:duration-75 active:before:scale-95 dark:before:border-gray-700 dark:before:bg-blue-500 sm:w-max"
+                    >
+                      <span
+                        class="relative text-base font-semibold text-white"
+                        >Chat on Telegram</span
+                      >
+                    </a>
+                </div>
+                <div class="hidden py-8 mt-16 border-y border-gray-100 dark:border-gray-800 sm:flex justify-between">
+                    <div class="text-left">
+                        <h6 class="text-lg font-semibold text-gray-700 dark:text-white">+5 years of experience</h6>
+                        <p class="mt-2 text-gray-500">In different technologies</p>
+                    </div>
+                    <div class="text-center">
+                      <h6 class="text-lg font-semibold text-gray-700 dark:text-white">A big portfolio</h6>
+                      <p class="mt-2 text-gray-500">With big companies</p>
+                  </div>
+                  
+                    <div class="text-right">
+                        <h6 class="text-lg font-semibold text-gray-700 dark:text-white">Innovating & renovating</h6>
+                        <p class="mt-2 text-gray-500">Improving with each project</p>
+                    </div>
+                </div>
+            </div>
+            <div class="mt-12 grid grid-cols-3 sm:grid-cols-4 md:grid-cols-6">
+                <div class="p-4 grayscale transition duration-200 hover:grayscale-0">
+                    <img src="./images/clients/colorstable.svg" class="h-12 w-auto mx-auto" loading="lazy" alt="client logo" width="" height="" />
+                  </div>
+                <div class="p-4 grayscale transition duration-200 hover:grayscale-0">
+                  <img src="./images/clients/zanetti.svg" class="h-12 w-auto mx-auto" loading="lazy" alt="client logo" width="" height="" />
+                </div>
+                <div class="p-4 flex grayscale transition duration-200 hover:grayscale-0">
+                  <img src="./images/clients/denise.svg" class="h-12 w-auto m-auto" loading="lazy" alt="client logo" width="" height="" />
+                </div>
+                <div class="p-4 grayscale transition duration-200 hover:grayscale-0">
+                    <img src="./images/clients/advocacia.svg" class="h-12 w-auto mx-auto" loading="lazy" alt="client logo" width="" height="" />
+                  </div>
+                  <div class="p-4 flex grayscale transition duration-200 hover:grayscale-0">
+                    <img src="./images/clients/americancut.svg" class="h-12 w-auto m-auto" loading="lazy" alt="client logo" width="" height="" />
+                  </div>
+                <div class="p-4 grayscale transition duration-200 hover:grayscale-0">
+                    <img src="./images/clients/casas-bahia.svg" class="h-12 w-auto mx-auto" loading="lazy" alt="client logo" width="" height="" />
+                </div>
+              </div>
+        </div>
+    </Container>
+</div>
