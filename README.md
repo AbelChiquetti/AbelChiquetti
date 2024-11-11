@@ -12,10 +12,10 @@ _Hello, my name is Abel, I'm 18 years old and I'm from Florianópolis. I am a cr
 <table width="100" align='center'>
 <tr>
     <td align='center' width="60">
-        <a href="https://cscolorstable.com.br/tabela"><img src="https://i.imgur.com/MKQCzis.png"></a>
+        <a href="https://github.com/AbelChiquetti/CarPricesPPF"><img src="https://i.imgur.com/MKQCzis.png"></a>
     </td>
     <td align='center' width="60">
-        <a href="https://dradenisechiquetti.com.br"><img src="https://i.imgur.com/n7krvDq.png" width="60"></a>
+        <a href="https://github.com/AbelChiquetti/Veterify"><img src="https://i.imgur.com/n7krvDq.png" width="60"></a>
     </td>
 </tr>
 </table>
