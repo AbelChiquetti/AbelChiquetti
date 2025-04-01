@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 480">
+  <rect width="640" height="480" fill="#bd3d44"/>
+  <path d="M0 55.3h640M0 129h640M0 203.3h640M0 277.3h640M0 351.3h640M0 425.3h640" stroke="#fff" stroke-width="37"/>
+  <rect width="364.8" height="258.5" fill="#192f5d"/>
+  <g fill="#fff">
+    <g id="d">
+      <g id="c">
+        <g id="b">
+          <g id="a">
+            <path d="M30.2 110.5l-3 9.3H17l8 5.9-3 9.3 8-5.9 8 5.9-3-9.3 8-5.9H32.8z"/>
+            <path d="M30.2 55.3l-3 9.3H17l8 5.9-3 9.3 8-5.9 8 5.9-3-9.3 8-5.9H32.8z"/>
+          </g>
+          <path d="M60.4 55.3l-3 9.3H47.1l8 5.9-3 9.3 8-5.9 8 5.9-3-9.3 8-5.9H63z"/>
+        </g>
+        <path d="M90.6 55.3l-3 9.3H77.3l8 5.9-3 9.3 8-5.9 8 5.9-3-9.3 8-5.9H93.2z"/>
+      </g>
+      <path d="M120.8 55.3l-3 9.3h-10.3l8 5.9-3 9.3 8-5.9 8 5.9-3-9.3 8-5.9h-10.3z"/>
+    </g>
+    <use xlink:href="#a" x="120.8"/>
+    <use xlink:href="#b" x="120.8"/>
+    <use xlink:href="#c" x="120.8"/>
+    <path d="M30.2 165.8l-3 9.3H17l8 5.8-3 9.3 8-5.8 8 5.8-3-9.3 8-5.8H32.8z"/>
+  </g>
+  <use xlink:href="#d" y="55.3"/>
+  <use xlink:href="#d" y="110.6"/>
+</svg> 
